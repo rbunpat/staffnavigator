@@ -40,7 +40,7 @@ export default function LoginAccount() {
           </CardContent>
           <CardFooter className="flex flex-col">
             <Button className="w-full">Login</Button>
-            <a href="/signup">
+            <a href="/login">
               <p className="mt-2 text-xs text-center text-gray-700">
                 {" "}
                 Have an account?{" "}
